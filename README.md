@@ -1,9 +1,7 @@
-## Very basic PyQt terminal emulator
+## Universal Dollycam
 
-This is a very basic terminal emulator written in Python PyQt.
-It lets you run commands and see output, as the screenshot below:
-
-![program](/program.png)
+This is essentially a glorified virtual controller but with some 
+helpful features that make it a small but powerful dollycam for games.
 
 ## Development
 
